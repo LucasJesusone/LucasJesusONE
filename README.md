@@ -1,8 +1,7 @@
-### Hi there 👋
 
-# Welcome!
+# Welcome 👋!
  
-## I'm Lucas Gabriel de Jesus, I'll!
+## About me!
 
 Hi, I am Lucas, student of analysis and system development, besides, studying about the technologies below.
 
