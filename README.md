@@ -3,8 +3,10 @@
 # Welcome!
  
 ## I'm Lucas Gabriel de Jesus, I'll!
- 
-… Insira suas descrições aqui!
+
+Hi, I am Lucas, student of analysis and system development, besides, studying about the technologies below.
+
+I am a lover of technology and coding :man_technologist:
  
  
 ## Technologies
