@@ -21,8 +21,8 @@
 ## Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgabrieljesus/)](https://www.linkedin.com/in/lucasgabrieljesus/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565993464850&text=Ol%C3%A1%2C%20tudo%20bem%3F)](https://api.whatsapp.com/send?phone=5565993464850&text=Ol%C3%A1%2C%20tudo%20bem%3F)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasjesusone@gmail.com)](mailto:lucasjesusone@gmail.com)
 
 ## GITHUB Interactions
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjesusone)](https://github.com/anuraghazra/github-readme-stats)
