@@ -1,7 +1,7 @@
 
 # Welcome 👋!
  
-## About me!
+## About me...
 
 Hi, I am Lucas, student of analysis and system development, besides, studying about the technologies below.
 
