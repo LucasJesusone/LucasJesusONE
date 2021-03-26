@@ -32,4 +32,4 @@ I am a lover of technology and coding :man_technologist:
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Hope you enjoy ! o/
